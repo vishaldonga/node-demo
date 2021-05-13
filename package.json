@@ -1,0 +1,26 @@
+{
+  "name": "node_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishaldonga/node-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishaldonga/node-demo/issues"
+  },
+  "homepage": "https://github.com/vishaldonga/node-demo#readme",
+  "dependencies": {
+    "get-stdin": "^8.0.0",
+    "minimist": "^1.2.5",
+    "performance-now": "^2.1.0",
+    "sqlite3": "^5.0.0"
+  }
+}
